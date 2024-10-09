@@ -1,0 +1,32 @@
+------------------------------------------------------------------------
+r39 | azxiana | 2009-12-09 14:11:30 +0000 (Wed, 09 Dec 2009) | 1 line
+Changed paths:
+   A /tags/1.6.1 Release (from /trunk:38)
+
+Tagging as 1.6.1 Release
+------------------------------------------------------------------------
+r38 | azxiana | 2009-12-09 14:10:24 +0000 (Wed, 09 Dec 2009) | 1 line
+Changed paths:
+   M /trunk/CleanMinimap.toc
+
+TOC bumped again.
+------------------------------------------------------------------------
+r37 | azxiana | 2009-12-09 13:52:15 +0000 (Wed, 09 Dec 2009) | 1 line
+Changed paths:
+   M /trunk/CleanMinimap.toc
+
+TOC bumped.
+------------------------------------------------------------------------
+r35 | azxiana | 2009-12-09 13:42:37 +0000 (Wed, 09 Dec 2009) | 1 line
+Changed paths:
+   M /trunk/CleanMinimap.lua
+
+Fixed major issues with 3.3 patch.
+------------------------------------------------------------------------
+r34 | azxiana | 2009-04-17 18:13:27 +0000 (Fri, 17 Apr 2009) | 1 line
+Changed paths:
+   M /trunk/CleanMinimap.lua
+   M /trunk/CleanMinimap.toc
+
+Removed old slash command handler that was conflicting with Ace3 handler.
+------------------------------------------------------------------------
